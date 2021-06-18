@@ -4,13 +4,16 @@ body {
 }
 a {
     color: lightseagreen;
+    font-size: 20px;
 }
 #lightgrey {
-    font-size: 20px;
+    font-size: 32px;
     color:lightslategray;
 }
 h1, h2 {
-    font-size: 32px;
+    font-size:50px;
+    font-weight: thin;
+    font-family: Verdana, sans-serif;
     color: white;
 }
 #camp{
